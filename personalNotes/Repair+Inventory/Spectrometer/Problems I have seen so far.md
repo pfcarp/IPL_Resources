@@ -1,0 +1,3 @@
+- Small gear that attaches to main micrometer body to move the counter breaks
+	- Solutions
+		- Make Another gear

@@ -1,0 +1,6 @@
+- Broken Fuse Holders
+	- Quantity:3 
+- Broken LCD
+	- Quantity:1
+- No Init
+	- Quantity:1  

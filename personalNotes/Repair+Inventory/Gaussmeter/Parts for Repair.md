@@ -1,0 +1,1 @@
+- https://www.digikey.com/en/products/detail/kycon-inc/KMDLAX-8P/9990072

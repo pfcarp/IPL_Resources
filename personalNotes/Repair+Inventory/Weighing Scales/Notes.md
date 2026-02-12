@@ -1,0 +1,1 @@
+- When battery does not work one can use power adapter

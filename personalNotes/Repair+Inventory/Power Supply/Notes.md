@@ -1,0 +1,2 @@
+- Common Issues are dirty rheostats/pots
+- Students like to move the switch in the back which changes power supply to subordinate mode

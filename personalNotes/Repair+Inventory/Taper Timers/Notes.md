@@ -1,0 +1,3 @@
+- Voltage does not impact period (attach oscilloscope images)
+	- May warm things up but have not noticed that
+- Adding a [barrel-to-pin jack adapter](https://www.digikey.com/en/products/detail/globtek-inc/P00-CCP/12341403) to switch everything in lab to power adapters

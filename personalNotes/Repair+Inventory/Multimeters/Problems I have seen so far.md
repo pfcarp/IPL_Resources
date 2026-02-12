@@ -1,0 +1,31 @@
+- Init freeze:
+	- Sometimes this fixes itself
+	- U103 Seems to be part of the problem of a frozen init
+		- Not exactly sure why but removal sometimes fixes init problem
+	- Solutions:
+		- connect to usb and try different commands (does not work)
+		- turn on and off rapidly >4 times (does not work)
+- Fuse Holder broken
+	- Solutions:
+		- Plastic welding 
+			- plastic to thin and small. Not viable
+		- Replacement
+	- notes:
+		- Apparently Ron had a specific tool for this purpose
+- Instability of measurement
+	- Solutions:
+		- TBD
+- No init and periodic noise (nothing on screen)
+	- Observed:
+		- U127 overheating (ALSO RON OBSERVED THIS)
+			- https://www.eevblog.com/forum/testgear/bk-precision-2831e-input-resistor-repair/
+			- Could be C186 (near display cable)
+		- an oscillator or relay at low frequency (e.g. <100Hz) 
+			- Most likely a relay
+	- Solution:
+		- TBD
+- Short on VCC and ground on u116
+	- Currently investigating
+- Mystery Short on u118 pin found
+	- Caused u127 to heat up
+	- Solved by removing components and introducing voltage to burn the short

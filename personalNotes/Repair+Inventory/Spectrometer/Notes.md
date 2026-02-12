@@ -1,0 +1,8 @@
+- Brass Sleeve holds gear (for counter) in place 
+- there are two "lenses"
+	- one is a slit and on the exterior 
+	- one is a lens with a line that is placed on the body but before the eyepiece
+- The eyepiece seems to be glued originally
+- The micrometer "cap" is glued on
+- the main black body with counter window is glued and threads with micrometer portion
+- 

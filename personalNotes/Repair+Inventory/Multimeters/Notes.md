@@ -1,0 +1,6 @@
+- relay k101:
+	- responsible for the switching between high and low voltage ranges 
+- u127
+- Key for the Zero Cal operation is `6666`
+- Most of the time the capacitor near the display (C186) connector shorts out
+- U103 Seems to be in charge of the low-level functionality (i.e relays) and partially responsible for init process
