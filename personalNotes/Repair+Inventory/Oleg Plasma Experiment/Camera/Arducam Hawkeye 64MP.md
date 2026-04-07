@@ -3,7 +3,7 @@
 - Based of a Sony IMX686
 
 
-# Current Modifications
+# Preliminary Modifications
 - Removed auto-focusing shell/mechanism to expose bare image sensor
 - Repair due to mishandling during removal from ESD bag (refer to images)
 	- Crossed cables 
@@ -26,3 +26,9 @@
 ![[Photo from 2026-04-07 13-43-22.511375.jpeg]]
 
 ![[Photo from 2026-04-07 13-43-31.226761.jpeg]]
+
+
+# Future Modifications
+- Try to integrate piezo actuators for 1micron translation
+	- Idea Sources:
+		- https://hackaday.io/project/202424-haptic-piezo-for-high-precision-actuation
